@@ -1,2 +1,2 @@
-﻿  BT1.2 ax+b=0.cpp
-  BT1.2 ax+b=0.vcxproj -> D:\BKACAD-K13\C++\Cpp-Basic\BT-CppBasics-BT-D05-K13\Debug\BT1.2-Giai-phuong-.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BT1.2-Giai-phuong-.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BT1.2 ax+b=0.vcxproj -> D:\BKACAD-K13\C++\Cpp-Basic\BT-CppBasics-BT-D05-K13\Debug\BT1.2-Giai-phuong-trinh.exe
