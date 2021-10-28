@@ -1,4 +1,4 @@
-// BT-tinh-so-nguyen.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// BT6.2-tinh-tong.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>

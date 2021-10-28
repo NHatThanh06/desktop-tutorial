@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
     int k, x = 0;
-    cout << "enter an integer" << '\n';
+    cout << "enter an integer: " << '\n';
     cin >> k;
     for (int i = 1; i <= k; i++)
     {

@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b7b78b63-8c6f-41b8-9a71-5458f0580bd0}</ProjectGuid>
-    <RootNamespace>BTtinhsonguyen</RootNamespace>
+    <ProjectGuid>{4ce20e2b-c405-40f6-875a-afd65d92d59f}</ProjectGuid>
+    <RootNamespace>BT62tinhtong</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BT-tinh-so-nguyen.cpp" />
+    <ClCompile Include="BT6.2-tinh-tong.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
