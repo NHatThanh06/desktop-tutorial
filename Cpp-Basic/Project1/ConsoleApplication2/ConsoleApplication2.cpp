@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    std::cout << " Enter number of student : ";
+    std::cout << " Enter number of student: ";
     short number; //so luong sv
     cin >> number;
 
